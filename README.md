@@ -2,7 +2,7 @@
 
 project description
 
-dataset (auto-mpg.csv)
+dataset (auto-mpg.csv). please note that dataset available for open-source data science competition at kaggle.com
 
 summary slides
 
